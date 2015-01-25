@@ -21,3 +21,8 @@ bt.translate('This hotel is located close to the centre of Paris.', 'en', 'ro', 
   console.log(err, res);
 });
 ```
+
+## Language List Reference
+
+Please refer to [this link](https://msdn.microsoft.com/en-us/library/hh456380.aspx) for the
+complete list of the languages supported by BING.
