@@ -1,13 +1,20 @@
 bing-translate
 ==============
 
+## Original plugin
+This is a fork of https://github.com/alexu84/bing-translate
+
 Bing Translator module for node.js
 
 ## Installation
 
+This will install the original plugin without the modifications I have added to my forked project:
+
 ```js
 $ npm install bing-translate
 ```
+
+If you wish to use my version, then clone this repository in a subfolder within your project, and use "require".
 
 ## API
 
